@@ -1,0 +1,18 @@
+{
+  "name": "session3",
+  "version": "1.0.0",
+  "description": "this is a movie searching project using API",
+  "repository": {
+    "type": "git",
+    "url": "PrajwalMudrabett"
+  },
+  "license": "MIT",
+  "author": "Prajwal Mudrabett",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev":"node index.js"
+  }
+}
